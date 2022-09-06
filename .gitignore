@@ -1,0 +1,11 @@
+*.pyc
+*__pycache__
+*.pem
+*.hcl
+*.pub
+*.exe
+*.tfstate
+*.terraform
+*.idea/
+terraform.tfstate.backup
+assignmentPrivateKey
